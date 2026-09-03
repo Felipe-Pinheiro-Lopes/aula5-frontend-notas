@@ -1,4 +1,4 @@
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000/api/notes';
+const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://aula5-api-notas.onrender.com/api/notes';
 
 export async function getNotes() {
   const res = await fetch(API_URL, { cache: 'no-store' });
