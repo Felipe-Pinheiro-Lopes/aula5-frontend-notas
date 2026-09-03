@@ -38,18 +38,8 @@ Acesse: `http://localhost:3000`
 
 Frontend publicado na **Vercel**: [https://aula5-frontend-notas.vercel.app](https://aula5-frontend-notas.vercel.app)
 
-Configure a variável de ambiente na Vercel:
-- **Key**: `NEXT_PUBLIC_API_URL`
-- **Value**: URL do Render (ex: `https://aula5-api-notas.onrender.com/api/notes`)
-
-## Tecnologias
-
-- Next.js (App Router)
-- React (useState, useEffect)
-- CSS customizado (dark mode, glassmorphism)
-- Fonte Outfit (Google Fonts)
-- Vercel (deploy)
-
 ## Repositório da API
 
-[https://github.com/Felipe-Pinheiro-Lopes/aula5-api-notas](https://github.com/Felipe-Pinheiro-Lopes/aula5-api-notas)
+API publicada no **Render**: [https://aula5-api-notas.onrender.com](https://aula5-api-notas.onrender.com)
+
+Repositório: [https://github.com/Felipe-Pinheiro-Lopes/aula5-api-notas](https://github.com/Felipe-Pinheiro-Lopes/aula5-api-notas)
